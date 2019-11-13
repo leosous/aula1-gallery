@@ -1,0 +1,57 @@
+@import url('normalize.css');
+
+*{
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-item-1{
+    flex: 1;
+}
+
+.flex-item-2{
+    flex: 2;
+}
+
+.flex-item-3{
+    flex: 3;
+}
+
+.topo{
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+.corpo{
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.direita{
+    background-color: red;
+}
+
+.info{
+    width: 80%;
+    height: 350px;
+    margin: 0 auto;
+    background-color: #069;
+}
+
+.rodape{
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+    background-color: yellowgreen;
+}
+
+.direita-rodape{
+    background-color: bisque;
+}
